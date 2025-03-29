@@ -6,7 +6,7 @@ Backend-focused software engineer specializing in the Node ecosystem and Google 
 
 > *I write Node for work, I write Go for fun.*
 
-🌍 Spanish developer based in Ireland
+🌍 Spanish developer based in Ireland | 🧙‍♂️ I use Vim BTW | 🦦 Go enthusiast
 
 ## 🔧 Tech Stack
 
@@ -17,6 +17,7 @@ Backend-focused software engineer specializing in the Node ecosystem and Google 
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)
 
 ## 🚀 What I'm Building
 
@@ -42,7 +43,7 @@ I'm currently working on some ambitious projects:
 
 - 🎨 Went to college for arts before switching to Computer Science (but somehow still ended up loving backend development)
 - 🍗 🍫 I like chicken with chocolate (yes, you read that right)
-- 😴 I'm probably sleeping
+- 😴 If I'm not coding, I'm probably sleeping
 - 🌙 Definitely not a morning person
 
 ---
