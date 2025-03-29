@@ -4,7 +4,7 @@
 
 Backend-focused software engineer specializing in the Node ecosystem and Google Cloud Infrastructure. I build robust, scalable systems and occasionally dabble in the mysterious art of CSS.
 
-> *I write Node for work, I write Go for fun.*
+> *I write Node for a living, I write Go for fun.*
 
 🌍 Spanish developer based in Ireland | 🧙‍♂️ I use Vim BTW | 🦦 Go enthusiast
 
