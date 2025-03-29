@@ -33,8 +33,6 @@ I'm currently working on some ambitious projects:
 
 - 🦀 Rust
 - 💎 Ruby
-- 🧠 DSA (Data Structures & Algorithms)
-- 🏗️ Software Architecture
 
 ## 📊 GitHub Stats
 
