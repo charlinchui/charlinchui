@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Carlos ([@Charlinchui](https://github.com/Charlinchui))
+🌍 Spanish developer based in Ireland | 🧙‍♂️ I use Vim BTW | 🦦 Go enthusiast
 
 ## 💻 Full Stack Solutions Developer
 
@@ -6,8 +7,6 @@ Spanish software engineer currently living in Ireland.
 Specialising in the Node ecosystem and Google Cloud Infrastructure. Enthusiastic about Go and building robust, scalable systems.
 
 > *I write Node for a living, I write Go for fun.*
-
-🌍 Spanish developer based in Ireland | 🧙‍♂️ I use Vim BTW | 🦦 Go enthusiast
 
 ## 🔧 Tech Stack
 
