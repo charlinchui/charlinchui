@@ -2,7 +2,8 @@
 
 ## 💻 Full Stack Solutions Developer
 
-Backend-focused software engineer specialising in the Node ecosystem and Google Cloud Infrastructure. I build robust, scalable systems and occasionally dabble in the mysterious art of CSS.
+Spanish software engineer currently living in Ireland.
+Specialising in the Node ecosystem and Google Cloud Infrastructure. Enthusiastic about Go and building robust, scalable systems.
 
 > *I write Node for a living, I write Go for fun.*
 
@@ -14,6 +15,7 @@ Backend-focused software engineer specialising in the Node ecosystem and Google 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Shell/Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
