@@ -2,7 +2,7 @@
 
 ## 💻 Full Stack Solutions Developer
 
-Backend-focused software engineer specializing in the Node ecosystem and Google Cloud Infrastructure. I build robust, scalable systems and occasionally dabble in the mysterious art of CSS.
+Backend-focused software engineer specialising in the Node ecosystem and Google Cloud Infrastructure. I build robust, scalable systems and occasionally dabble in the mysterious art of CSS.
 
 > *I write Node for a living, I write Go for fun.*
 
