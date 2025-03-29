@@ -42,7 +42,7 @@ I'm currently working on some ambitious projects:
 
 - 🎨 Went to college for arts before switching to Computer Science (but somehow still ended up loving backend development)
 - 🍗 🍫 I like chicken with chocolate (yes, you read that right)
-- 😴 If I'm not coding, I'm probably sleeping
+- 😴 I'm probably sleeping
 - 🌙 Definitely not a morning person
 
 ---
