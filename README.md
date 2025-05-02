@@ -26,9 +26,7 @@ Specialising in the Node ecosystem and Google Cloud Infrastructure. Enthusiastic
 
 I'm currently working on:
 
-- 🦑 **Git Provider Platform** - A GitHub/GitLab alternative
-- 🚀 **Hosting Platform** - Inspired by Fly.io/Vercel
-- 📋 **Terminal Kanban Board** - Task management right in your terminal
+- 🧑‍💻 **Sidequest**: A platform to find developer sidequests
 
 ## 🌱 Currently Learning
 
