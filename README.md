@@ -26,7 +26,7 @@ Specialising in the Node ecosystem and Google Cloud Infrastructure. Enthusiastic
 
 I'm currently working on:
 
-- 🧑‍💻 **Sidequest**: A platform to find developer sidequests
+- 📽️ Syncnema: An app to share videos
 
 ## 🌱 Currently Learning
 
