@@ -26,6 +26,7 @@ Specialising in the Node ecosystem and Google Cloud Infrastructure. Enthusiastic
 
 I'm currently working on:
 
+- 🌐 Galliard: A bayeux protocol server + client library
 - 📽️ Syncnema: An app to share videos
 
 ## 🌱 Currently Learning
