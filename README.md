@@ -10,7 +10,7 @@ Specialising in the Node ecosystem and Google Cloud Infrastructure. Enthusiastic
 🌍 Spanish developer based in Ireland | 🧙‍♂️ I use Vim BTW | 🦦 Go enthusiast
 
 ## 🔧 Tech Stack
-
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) <!-- highlighted separately -->
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
@@ -22,16 +22,13 @@ Specialising in the Node ecosystem and Google Cloud Infrastructure. Enthusiastic
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)
 
-## 🚀 What I'm Building
+## 🚀 Current Focus
 
-I'm currently working on:
+- 🦀 **Day 2 / 365 – Rust-only challenge**  
+  Building everything in Rust for a year to deepen my systems knowledge.
 
-- 🌐 Galliard: A bayeux protocol server + client library
-- 📽️ Syncnema: An app to share videos
+## 🌱 Also Learning
 
-## 🌱 Currently Learning
-
-- 🦀 Rust
 - 💎 Ruby
 
 ## 📊 GitHub Stats
@@ -43,8 +40,7 @@ I'm currently working on:
 
 - 🎨 Went to college for arts before switching to Computer Science (but somehow still ended up loving backend development)
 - 🍗 🍫 I like chicken with chocolate (yes, you read that right)
-- 😴 If I'm not coding, I'm probably sleeping
-- 🌙 Definitely not a morning person
+- 😴🌙⚡ ADHD & Definitely not a morning person; if I’m quiet I’m probably sleeping.
 
 ---
 
