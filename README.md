@@ -25,7 +25,7 @@ Specialising in the Node ecosystem and Google Cloud Infrastructure. Enthusiastic
 ## 🚀 Current Focus
 
 - 🦀 **365-Day Rust Challenge (Day 4)**  
-  For an entire year I’m writing _only_ Rust—no JavaScript, TypeScript, Go, or Bash in personal projects. And more importanty: No AI or Code Generation Tools, only Docs and Communities.  
+  For an entire year I’m writing _only_ Rust—no JavaScript, TypeScript, Go, or Bash in personal projects. ALSO: **No AI or Code Generation Tools, only Docs and Communities**.  
   The goal is to understand what is happening under the hood and become a better engineer by rebuilding core tools from scratch.
   (CLI apps ➜ web server ➜ database ➜ distributed systems).
 
