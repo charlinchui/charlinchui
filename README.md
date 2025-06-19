@@ -10,7 +10,6 @@ Specialising in the Node ecosystem and Google Cloud Infrastructure. Enthusiastic
 🌍 Spanish developer based in Ireland | 🧙‍♂️ I use Vim BTW | 🦦 Go enthusiast
 
 ## 🔧 Tech Stack
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) <!-- highlighted separately -->
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
@@ -21,6 +20,8 @@ Specialising in the Node ecosystem and Google Cloud Infrastructure. Enthusiastic
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)
+
+_Someday_ ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 
 ## 🚀 Current Focus
 
