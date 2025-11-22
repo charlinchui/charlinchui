@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Carlos ([@Charlinchui](https://github.com/Charlinchui))
 
-## 💻 Full Stack Solutions Developer
+## 💻 Full Stack Engineer & Google Cloud DevOps
 
 Spanish software engineer currently living in Ireland.
 Specialising in the Node ecosystem and Google Cloud Infrastructure. Enthusiastic about Go and building robust, scalable systems.
