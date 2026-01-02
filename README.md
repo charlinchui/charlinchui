@@ -31,11 +31,6 @@ _Someday_ ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=w
   The goal is to understand what is happening under the hood and become a better engineer by rebuilding core tools from scratch.
   (CLI apps ➜ web server ➜ database ➜ distributed systems).
 
-## 🌱 Also Learning
-
-- 💧 Elixir
-- 💎 Ruby
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Charlinchui&show_icons=true&theme=tokyonight)
