@@ -7,7 +7,7 @@ Specialising in the Node ecosystem and Google Cloud Infrastructure. Enthusiastic
 
 > *I write Node for a living, I write Go for fun.*
 
-🌍 Spanish developer based in Ireland | 🧙‍♂️ I use Vim BTW | 🦦 Go enthusiast
+🌍 Spanish software engineer based in Ireland | 🧙‍♂️ I use Vim BTW | 🦦 Go enthusiast
 
 ## 🔧 Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
