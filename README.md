@@ -26,10 +26,7 @@ _Someday_ ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=w
 ## 🚀 Current Focus
 
 - 🏘 **Finding my place**
-- 🦀 **365-Day Rust Challenge (Day 15) - Indefinitely Paused as I have a different Goal currently**  
-  For an entire year I’m writing _only_ Rust—no JavaScript, TypeScript, Go, or Bash in personal projects. ALSO: **No AI or Code Generation Tools, only Docs and Communities**.  
-  The goal is to understand what is happening under the hood and become a better engineer by rebuilding core tools from scratch.
-  (CLI apps ➜ web server ➜ database ➜ distributed systems).
+- Currently building a fictional/mock company. For fun. Including all the software I might require!
 
 ## 📊 GitHub Stats
 
