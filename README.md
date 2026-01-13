@@ -30,6 +30,7 @@ _Someday_ ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=w
 
 ## 📊 GitHub Stats
 
+(BUGGED AT THE MOMENT, WILL BE FIXING OVER THE WEEKEND, THANKS FOR UNDERSTANDING)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Charlinchui&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlinchui&layout=compact&theme=tokyonight&hide=c++,objective-c)
 
@@ -37,7 +38,7 @@ _Someday_ ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=w
 
 - 🎨 Went to college for arts before switching to Computer Science (but somehow still ended up loving backend development)
 - 🍗 🍫 I like chicken with chocolate (yes, you read that right)
-- 😴🌙⚡ ADHD & Definitely not a morning person; if I’m quiet I’m probably sleeping.
+- 😴🌙⚡ ADHD & Definitely not a morning person; if I’m quiet, I’m probably sleeping.
 
 ---
 
