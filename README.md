@@ -25,9 +25,8 @@ _Someday_ ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=w
 
 ## 🚀 Current Focus
 
-- 🏘 **Finding my place**
-- Currently building a fictional/mock company. For fun. Including all the software I might require!
-
+- Learning
+  
 ## 📊 GitHub Stats
 
 (BUGGED AT THE MOMENT, WILL BE FIXING OVER THE WEEKEND, THANKS FOR UNDERSTANDING)
