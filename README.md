@@ -25,7 +25,7 @@ _Someday_ ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=w
 
 ## 🚀 Current Focus
 
-- Learning
+- Learning stuff. Reading more. Thinking better.
   
 ## 📊 GitHub Stats
 
